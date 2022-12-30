@@ -1,26 +1,26 @@
 ### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Hey, I'm Muskan!
   
 
-github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/gaurav12899" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/" target="_blank">
+<a href="https://dev.to/gaurav12899" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/" target="_blank">
+<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.facebook.com/" target="_blank">
+<a href="https://www.facebook.com/gaurav12899" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/" target="_blank">
+<a href="https://instagram.com/gauravjain12899" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/" target="_blank">
+<a href="https://twitter.com/iamgaurav12899" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
   
-
 
 
 ### Glad to see you here!  
