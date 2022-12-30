@@ -81,11 +81,11 @@ github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav12899&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=muskan-Bansal&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav12899&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-Bansal&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
