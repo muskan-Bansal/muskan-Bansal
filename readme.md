@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Hey, I'm Muskan!
   
 
-<a href="https://github.com/gaurav12899" target="_blank">
+<a href="https://github.com/muskan-bansal" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/gaurav12899" target="_blank">
@@ -24,7 +24,7 @@
 
 
 ### Glad to see you here!  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am computer science engineering student at Sharda University. Currently in 3rd year, so looking for some good internships.  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am computer science engineering student at University Visveswaraiah collee of engneering . Currently in 3rd year , and looking for some good internships.  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 
 <br/>  
